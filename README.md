@@ -1,13 +1,14 @@
-### Hi there 👋🏽
-# 🔭 I’m currently working on.. 
+## Hi there 👋🏽
+### 🔭 I’m currently working on.. 
       - getting used to common tools used by programmers, such as GitHub ✨
       - time-management
-# 🌱 I’m currently learning 
+
+### 🌱 I’m currently learning 
       - C++
       - HTML.
       - the Splits
       - Discrete Math
-# ⚡ Other Interests: 
+### 🎀 Other Interests: 
      - I love reading books. My goto (atm) genres are fantasy, historical fiction, poetry, random nonfiction, and biographies.
      - I love drawing! 
      - I can spend hrs on youtube and pinterest :-o 
